@@ -1,0 +1,204 @@
+[16:35:50] [CanaryMod] [INFO]: Starting: CanaryMod 1.8.0-1.2.0-RC1
+[16:35:50] [CanaryMod] [INFO]: Canary Path: /C:/Users/lewis/Desktop/games/minecraft-server/CanaryMod-1.8.0-1.2.0-RC1.jar & Working From: C:\Users\lewis\Desktop\games\minecraft-server
+[16:35:50] [CanaryMod] [INFO]: Registered xml Database
+[16:35:50] [CanaryMod] [INFO]: Found 1 plugins; total: 1
+[16:35:51] [net.minecraft.server.dedicated.DedicatedServer] [INFO]: Starting minecraft server version 1.8
+[16:35:51] [net.minecraft.server.dedicated.DedicatedServer] [INFO]: Loading properties
+[16:35:51] [net.minecraft.server.dedicated.DedicatedServer] [INFO]: Generating keypair
+[16:35:51] [net.minecraft.server.dedicated.DedicatedServer] [INFO]: Starting Minecraft server on *:58888
+[16:35:51] [CanaryMod] [INFO]: Enabling early Plugins...
+[16:35:51] [CanaryMod] [INFO]: Enabling late Plugins...
+[16:35:51] [CanaryMod] [INFO]: Enabling plugin org.scriptcraftjs.canarymod.ScriptCraftPlugin
+[16:35:52] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Directory C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft does not exist.
+[16:35:52] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Initializing C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft directory with contents from plugin archive.
+[16:35:52] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\lib\bukkit.js (NE)
+[16:35:52] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\lib\canary.js (NE)
+[16:35:52] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\lib\command.js (NE)
+[16:35:52] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\lib\console.js (NE)
+[16:35:52] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\lib\events-bukkit.js (NE)
+[16:35:52] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\lib\events-canary.js (NE)
+[16:35:52] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\lib\events-helper-bukkit.js (NE)
+[16:35:52] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\lib\events-helper-canary.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\lib\events.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\lib\java-utils.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\lib\js-patch.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\lib\json2.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\lib\legacy-check.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\lib\persistence.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\lib\plugin.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\lib\readme.md (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\lib\require.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\lib\scriptcraft.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\lib\tabcomplete-jsp.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\lib\tabcomplete.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\lib\task-bukkit.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\lib\task-canary.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\readme.md (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\plugins\alias\alias.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\plugins\arrows.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\plugins\classroom\classroom.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\plugins\commando\commando-test.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\plugins\commando\commando.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\plugins\drone\blocktype.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\plugins\drone\contrib\castle.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\plugins\drone\contrib\chessboard.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\plugins\drone\contrib\cottage.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\plugins\drone\contrib\dancefloor.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\plugins\drone\contrib\fort.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\plugins\drone\contrib\hangtorch.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\plugins\drone\contrib\lcd-clock.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\plugins\drone\contrib\logo.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\plugins\drone\contrib\mazegen.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\plugins\drone\contrib\rainbow.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\plugins\drone\contrib\redstonewire.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\plugins\drone\contrib\spiral_stairs.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\plugins\drone\contrib\temple.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\plugins\drone\drone-firework.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\plugins\drone\drone.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\plugins\drone\sphere.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\plugins\drone\test.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\plugins\examples\example-1-hello-module.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\plugins\examples\example-2-hello-command.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\plugins\examples\example-3-hello-ops-only.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\plugins\examples\example-4-hello-parameters.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\plugins\examples\example-5-hello-using-module.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\plugins\examples\example-6-hello-player.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\plugins\examples\example-7-hello-events.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\plugins\homes\homes.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\plugins\minigames\NumberGuess.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\plugins\minigames\cow-clicker.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\plugins\signs\examples.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\plugins\spawn.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\modules\blocks.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\modules\bukkit\fireworks.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\modules\bukkit\input.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\modules\bukkit\items.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\modules\bukkit\recipes.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\modules\bukkit\sounds.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\modules\canary\fireworks.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\modules\canary\input.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\modules\canary\items.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\modules\canary\recipes.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\modules\canary\sounds.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\modules\fireworks.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\modules\http\package.json (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\modules\http\request.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\modules\input.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\modules\items.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\modules\minigames\scoreboard.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\modules\recipes.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\modules\sc-mqtt.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\modules\signs\menu.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\modules\signs\package.json (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\modules\signs\signs.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\modules\sounds.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\modules\underscore.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\modules\utils\package.json (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\modules\utils\string-exts.js (NE)
+[16:35:53] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: Unzipping C:\Users\lewis\Desktop\games\minecraft-server\scriptcraft\modules\utils\utils.js (NE)
+[16:35:54] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [WARN]: alias plugin is not yet supported in CanaryMod
+[16:35:54] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [WARN]: arrows plugin not yet supported in CanaryMod
+[16:35:54] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [WARN]: commando-test not yet supported in CanaryMod
+[16:35:54] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [WARN]: commando plugin is not yet supported in CanaryMod
+[16:35:54] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [WARN]: cow-clicker minigame is not yet supported in CanaryMod
+[16:35:54] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [WARN]: signs/menu is not yet supported in CanaryMod
+[16:35:54] [net.minecraft.server.MinecraftServer] [INFO]: Preparing start region for level default_NORMAL (0)
+[16:35:55] [net.minecraft.server.dedicated.DedicatedServer] [INFO]: Done (3.786s)! For help, type "help" or "?"
+[16:35:55] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [INFO]: js-patch setTimeout() test complete
+[16:36:45] [net.minecraft.server.network.NetHandlerLoginServer] [INFO]: UUID of player LewisJang is e42e8c0f-c751-4152-bbfc-b500b18afaad
+[16:36:45] [net.minecraft.server.management.ServerConfigurationManager] [INFO]: LewisJang[/192.168.1.103:54085] logged in with entity id 223 at (-30.344758163445576, 64.0, -81.5981224254308)
+[16:36:45] [net.minecraft.server.MinecraftServer] [INFO]: LewisJang joined the game
+[16:36:55] [CanaryMod] [INFO]: Command used by LewisJang: /js 1+1
+[16:37:09] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [ERROR]: Error while trying to evaluate javascript: random(1), Error: javax.script.ScriptException: ReferenceError: "random" is not defined in <eval> at line number 1
+[16:37:09] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [ERROR]: javax.script.ScriptException: javax.script.ScriptException: ReferenceError: "random" is not defined in <eval> at line number 1 in <eval> at line number 622 at column number 8
+[16:37:09] [CanaryMod] [INFO]: Command used by LewisJang: /js random(1)
+[16:37:15] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [ERROR]: Error while trying to evaluate javascript: random(1,10/, Error: javax.script.ScriptException: <eval>:1:12 Expected an operand but found eof
+random(1,10/
+            ^ in <eval> at line number 1 at column number 12
+[16:37:15] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [ERROR]: javax.script.ScriptException: javax.script.ScriptException: <eval>:1:12 Expected an operand but found eof
+random(1,10/
+            ^ in <eval> at line number 1 at column number 12 in <eval> at line number 622 at column number 8
+[16:37:15] [CanaryMod] [INFO]: Command used by LewisJang: /js random(1,10/
+[16:37:18] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [ERROR]: Error while trying to evaluate javascript: random(1,10), Error: javax.script.ScriptException: ReferenceError: "random" is not defined in <eval> at line number 1
+[16:37:18] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [ERROR]: javax.script.ScriptException: javax.script.ScriptException: ReferenceError: "random" is not defined in <eval> at line number 1 in <eval> at line number 622 at column number 8
+[16:37:18] [CanaryMod] [INFO]: Command used by LewisJang: /js random(1,10)
+[16:37:25] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [ERROR]: Error while trying to evaluate javascript: math.rand(1,10), Error: javax.script.ScriptException: ReferenceError: "math" is not defined in <eval> at line number 1
+[16:37:25] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [ERROR]: javax.script.ScriptException: javax.script.ScriptException: ReferenceError: "math" is not defined in <eval> at line number 1 in <eval> at line number 622 at column number 8
+[16:37:25] [CanaryMod] [INFO]: Command used by LewisJang: /js math.rand(1,10)
+[16:37:51] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [ERROR]: Error while trying to evaluate javascript: math.random(1,10), Error: javax.script.ScriptException: ReferenceError: "math" is not defined in <eval> at line number 1
+[16:37:51] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [ERROR]: javax.script.ScriptException: javax.script.ScriptException: ReferenceError: "math" is not defined in <eval> at line number 1 in <eval> at line number 622 at column number 8
+[16:37:51] [CanaryMod] [INFO]: Command used by LewisJang: /js math.random(1,10)
+[16:37:57] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [ERROR]: Error while trying to evaluate javascript: <ath.random(1,10), Error: javax.script.ScriptException: <eval>:1:0 Expected an operand but found <
+<ath.random(1,10)
+^ in <eval> at line number 1 at column number 0
+[16:37:57] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [ERROR]: javax.script.ScriptException: javax.script.ScriptException: <eval>:1:0 Expected an operand but found <
+<ath.random(1,10)
+^ in <eval> at line number 1 at column number 0 in <eval> at line number 622 at column number 8
+[16:37:57] [CanaryMod] [INFO]: Command used by LewisJang: /js <ath.random(1,10)
+[16:38:02] [CanaryMod] [INFO]: Command used by LewisJang: /js Math.random(1,10)
+[16:38:56] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [ERROR]: Error while trying to evaluate javascript: for (var x = 1; x < 10; x++) { say x; }, Error: javax.script.ScriptException: <eval>:1:35 Expected ; but found x
+for (var x = 1; x < 10; x++) { say x; }
+                                   ^ in <eval> at line number 1 at column number 35
+[16:38:56] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [ERROR]: javax.script.ScriptException: javax.script.ScriptException: <eval>:1:35 Expected ; but found x
+for (var x = 1; x < 10; x++) { say x; }
+                                   ^ in <eval> at line number 1 at column number 35 in <eval> at line number 622 at column number 8
+[16:38:56] [CanaryMod] [INFO]: Command used by LewisJang: /js for (var x = 1; x < 10; x++) { say x; }
+[16:39:09] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [ERROR]: Error while trying to evaluate javascript: for (var x = 1; x < 10; x++) {, Error: javax.script.ScriptException: <eval>:1:30 Expected } but found eof
+for (var x = 1; x < 10; x++) {
+                              ^ in <eval> at line number 1 at column number 30
+[16:39:09] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [ERROR]: javax.script.ScriptException: javax.script.ScriptException: <eval>:1:30 Expected } but found eof
+for (var x = 1; x < 10; x++) {
+                              ^ in <eval> at line number 1 at column number 30 in <eval> at line number 622 at column number 8
+[16:39:09] [CanaryMod] [INFO]: Command used by LewisJang: /js for (var x = 1; x < 10; x++) {
+[16:39:12] [CanaryMod] [INFO]: Command used by LewisJang: /js for (var x = 1; x < 10; x++) x
+[16:39:17] [CanaryMod] [INFO]: Command used by LewisJang: /js for (var x = 1; x < 10; x++) { x }
+[16:39:34] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [ERROR]: Error while trying to evaluate javascript: for (var x = 1; x < 10; x++) { give 1 }, Error: javax.script.ScriptException: <eval>:1:36 Expected ; but found 1
+for (var x = 1; x < 10; x++) { give 1 }
+                                    ^ in <eval> at line number 1 at column number 36
+[16:39:34] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [ERROR]: javax.script.ScriptException: javax.script.ScriptException: <eval>:1:36 Expected ; but found 1
+for (var x = 1; x < 10; x++) { give 1 }
+                                    ^ in <eval> at line number 1 at column number 36 in <eval> at line number 622 at column number 8
+[16:39:34] [CanaryMod] [INFO]: Command used by LewisJang: /js for (var x = 1; x < 10; x++) { give 1 }
+[16:39:38] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [ERROR]: Error while trying to evaluate javascript: for (var x = 1; x < 10; x++) { give lewis 1 }, Error: javax.script.ScriptException: <eval>:1:36 Expected ; but found lewis
+for (var x = 1; x < 10; x++) { give lewis 1 }
+                                    ^ in <eval> at line number 1 at column number 36
+[16:39:38] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [ERROR]: javax.script.ScriptException: javax.script.ScriptException: <eval>:1:36 Expected ; but found lewis
+for (var x = 1; x < 10; x++) { give lewis 1 }
+                                    ^ in <eval> at line number 1 at column number 36 in <eval> at line number 622 at column number 8
+[16:39:38] [CanaryMod] [INFO]: Command used by LewisJang: /js for (var x = 1; x < 10; x++) { give lewis 1 }
+[16:39:44] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [ERROR]: Error while trying to evaluate javascript: for (var x = 1; x < 10; x++) { give LewisJang 1 }, Error: javax.script.ScriptException: <eval>:1:36 Expected ; but found LewisJang
+for (var x = 1; x < 10; x++) { give LewisJang 1 }
+                                    ^ in <eval> at line number 1 at column number 36
+[16:39:44] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [ERROR]: javax.script.ScriptException: javax.script.ScriptException: <eval>:1:36 Expected ; but found LewisJang
+for (var x = 1; x < 10; x++) { give LewisJang 1 }
+                                    ^ in <eval> at line number 1 at column number 36 in <eval> at line number 622 at column number 8
+[16:39:44] [CanaryMod] [INFO]: Command used by LewisJang: /js for (var x = 1; x < 10; x++) { give LewisJang 1 }
+[16:40:27] [CanaryMod] [INFO]: Command used by LewisJang: /js for (var x = 1; x < 10; x++) { echo(self, x) }
+[16:41:57] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [ERROR]: Error while trying to evaluate javascript: math.random(1,10), Error: javax.script.ScriptException: ReferenceError: "math" is not defined in <eval> at line number 1
+[16:41:57] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [ERROR]: javax.script.ScriptException: javax.script.ScriptException: ReferenceError: "math" is not defined in <eval> at line number 1 in <eval> at line number 622 at column number 8
+[16:41:57] [CanaryMod] [INFO]: Command used by LewisJang: /js math.random(1,10)
+[16:42:05] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [ERROR]: Error while trying to evaluate javascript: <ath.random(1,10), Error: javax.script.ScriptException: <eval>:1:0 Expected an operand but found <
+<ath.random(1,10)
+^ in <eval> at line number 1 at column number 0
+[16:42:05] [org.scriptcraftjs.canarymod.ScriptCraftPlugin] [ERROR]: javax.script.ScriptException: javax.script.ScriptException: <eval>:1:0 Expected an operand but found <
+<ath.random(1,10)
+^ in <eval> at line number 1 at column number 0 in <eval> at line number 622 at column number 8
+[16:42:05] [CanaryMod] [INFO]: Command used by LewisJang: /js <ath.random(1,10)
+[16:42:12] [CanaryMod] [INFO]: Command used by LewisJang: /js Math.random(1,10)
+[16:43:00] [CanaryMod] [INFO]: Command used by LewisJang: /js parseInt(Math.random(1,10))
+[16:43:01] [CanaryMod] [INFO]: Command used by LewisJang: /js parseInt(Math.random(1,10))
+[16:43:05] [CanaryMod] [INFO]: Command used by LewisJang: /js parseInt(Math.random(1,10) * 10)
+[16:43:07] [CanaryMod] [INFO]: Command used by LewisJang: /js parseInt(Math.random(1,10) * 10)
+[16:43:08] [CanaryMod] [INFO]: Command used by LewisJang: /js parseInt(Math.random(1,10) * 10)
+[16:43:09] [CanaryMod] [INFO]: Command used by LewisJang: /js parseInt(Math.random(1,10) * 10)
+[16:43:10] [CanaryMod] [INFO]: Command used by LewisJang: /js parseInt(Math.random(1,10) * 10)
+[16:43:11] [CanaryMod] [INFO]: Command used by LewisJang: /js parseInt(Math.random(1,10) * 10)
+[16:43:26] [net.minecraft.network.NetHandlerPlayServer] [INFO]: LewisJang lost connection: Internal Exception: java.io.IOException: 遠端主機已強制關閉一個現存的連線。
+[16:43:26] [net.minecraft.server.MinecraftServer] [INFO]: LewisJang left the game
+[16:43:43] [CanaryMod] [INFO] [NOTICE]: Console issued a manual shutdown
+[16:43:43] [net.minecraft.server.MinecraftServer] [INFO]: Stopping server
+[16:43:43] [net.minecraft.server.MinecraftServer] [INFO]: Saving players
+[16:43:43] [net.minecraft.server.MinecraftServer] [INFO]: Saving worlds
+[16:43:43] [net.minecraft.server.MinecraftServer] [INFO]: Saving chunks for level 'default'/Overworld
+[16:43:43] [CanaryMod] [INFO]: Disabling Plugins ...
+[16:43:43] [CanaryMod] [INFO]: Disabling plugin org.scriptcraftjs.canarymod.ScriptCraftPlugin

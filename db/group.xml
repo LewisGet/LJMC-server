@@ -1,0 +1,34 @@
+<group>
+  <entry>
+    <id auto-increment="true" data-type="INTEGER" column-type="PRIMARY" is-list="false">1</id>
+    <isDefault auto-increment="false" data-type="BOOLEAN" column-type="NORMAL" is-list="false">true</isDefault>
+    <name auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">visitors</name>
+    <parent auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">visitors</parent>
+    <prefix auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">§7</prefix>
+    <world auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">null</world>
+  </entry>
+  <entry>
+    <id auto-increment="true" data-type="INTEGER" column-type="PRIMARY" is-list="false">2</id>
+    <isDefault auto-increment="false" data-type="BOOLEAN" column-type="NORMAL" is-list="false">false</isDefault>
+    <name auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">players</name>
+    <parent auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">visitors</parent>
+    <prefix auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">§F</prefix>
+    <world auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">null</world>
+  </entry>
+  <entry>
+    <id auto-increment="true" data-type="INTEGER" column-type="PRIMARY" is-list="false">3</id>
+    <isDefault auto-increment="false" data-type="BOOLEAN" column-type="NORMAL" is-list="false">false</isDefault>
+    <name auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">mods</name>
+    <parent auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">players</parent>
+    <prefix auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">§E</prefix>
+    <world auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">null</world>
+  </entry>
+  <entry>
+    <id auto-increment="true" data-type="INTEGER" column-type="PRIMARY" is-list="false">4</id>
+    <isDefault auto-increment="false" data-type="BOOLEAN" column-type="NORMAL" is-list="false">false</isDefault>
+    <name auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">admins</name>
+    <parent auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">mods</parent>
+    <prefix auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">§C</prefix>
+    <world auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">null</world>
+  </entry>
+</group>

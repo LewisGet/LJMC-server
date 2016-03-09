@@ -1,0 +1,23 @@
+<permission>
+  <entry>
+    <id auto-increment="true" data-type="INTEGER" column-type="PRIMARY" is-list="false">1</id>
+    <owner auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">admins</owner>
+    <path auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">*</path>
+    <type auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">group</type>
+    <value auto-increment="false" data-type="BOOLEAN" column-type="NORMAL" is-list="false">true</value>
+  </entry>
+  <entry>
+    <id auto-increment="true" data-type="INTEGER" column-type="PRIMARY" is-list="false">2</id>
+    <owner auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">mods</owner>
+    <path auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">canary.super.ignoreRestrictions</path>
+    <type auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">group</type>
+    <value auto-increment="false" data-type="BOOLEAN" column-type="NORMAL" is-list="false">true</value>
+  </entry>
+  <entry>
+    <id auto-increment="true" data-type="INTEGER" column-type="PRIMARY" is-list="false">3</id>
+    <owner auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">players</owner>
+    <path auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">canary.world.build</path>
+    <type auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">group</type>
+    <value auto-increment="false" data-type="BOOLEAN" column-type="NORMAL" is-list="false">true</value>
+  </entry>
+</permission>
